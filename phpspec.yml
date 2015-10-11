@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: icthub
+        psr4_prefix: icthub
+        src_path: app
