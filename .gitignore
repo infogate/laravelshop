@@ -8,6 +8,7 @@ Homestead.json
 /.idea
 /_ide_helper.php
 composer.phar
+composer.lock
 .DS_Store
 /bootstrap/compiled.php
 /build/logs
